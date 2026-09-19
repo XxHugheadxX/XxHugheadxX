@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="banner-light.svg">
-  <img src="banner-dark.svg" width="100%" alt="William Web3 terminal banner">
+  <img src="banner-dark.svg" width="100%" alt="XxHugheadxX profile terminal banner">
 </picture>
 
 <br>
